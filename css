@@ -1,0 +1,117 @@
+.header {
+    padding: 20px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px;
+    font-family: 'Lora', serif;
+   /* font-family: 'Open Sans';*/
+}
+
+.img {
+   border: 1px solid black;
+}
+
+.main {
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: flex-start;
+	align-content: stretch;
+    margin: 0 auto;
+    width: 1100px;
+}
+
+.h2 {
+    color: brown;
+    text-align: center;
+}
+
+.block1 {
+    /*background-color: bisque;*/
+    padding: 20px;
+    text-align: center;
+}
+
+h4 {
+    border-left: 5px solid green;
+    padding-left: 10px;
+    color: brown;
+    margin-top: 30;
+}
+
+.p {
+    margin-left: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.h4 {
+    border-left: 5px solid green;
+    padding-left: 10px;
+    color: brown;
+    margin-top: 30;
+}
+
+.pfooter {
+    margin-left: 10px;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.linkfooter {
+    color: brown;
+    text-decoration: none;
+}
+
+.linkfooter:visited {
+    color: yellowgreen;
+}
+
+.linkfooter:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+.header-nav {
+    color: brown;
+    padding-right: 20px;
+}
+
+.header-nav:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+.df {
+    border-top: 1px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.ul {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.img1 {
+    margin-right: 20px;
+}
+
+.img2 {
+    margin-right: 20px;
+}
+
+.img3 {
+    margin-right: 20px;
+}
